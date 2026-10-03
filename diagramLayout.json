@@ -1,0 +1,98 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 923,
+        "y": 324
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 961,
+            "y": 408.375
+          },
+          "nodeIndex": "bikeshare_regions",
+          "nodeLineageTag": "584d0e96-767e-4ad0-9332-89e308c6fa03",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 682,
+            "y": 590.375
+          },
+          "nodeIndex": "bikeshare_station_info",
+          "nodeLineageTag": "00f6c669-fadc-4a6b-84b7-a0bb7610c2ca",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 306,
+            "y": 670.375
+          },
+          "nodeIndex": "bikeshare_trips",
+          "nodeLineageTag": "91170671-0b1f-4812-a1aa-6c580a82e571",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 698.375
+          },
+          "nodeIndex": "Календарь",
+          "nodeLineageTag": "48dedc3c-33ca-40fb-9c71-f3281728839b",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1245,
+            "y": 455.875
+          },
+          "nodeIndex": "Меры",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1529,
+            "y": 317.125
+          },
+          "nodeIndex": "Период сравнения",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

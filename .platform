@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "SF_Bikeshare_Yakhiya...."
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "8f8ff4f3-4efb-4089-a6d5-a5dc6c5dd07e"
+  }
+}
