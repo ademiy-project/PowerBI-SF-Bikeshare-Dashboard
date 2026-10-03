@@ -2,8 +2,6 @@
 
 # Power BI: San Francisco Bay Area Bike Share Dashboard
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
 An interactive Power BI report analyzing bike share trips in the San Francisco Bay Area (2013–2018). It covers trip volume trends, period-over-period growth, peak usage times, geographic analysis down to individual stations, underused stations, popular routes and user behavior.
 
 ## Data Source
